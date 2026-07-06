@@ -1,0 +1,5 @@
+#consist of files that never should be comitted
+venv/
+.env
+storage/
+__pycache__/
