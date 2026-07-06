@@ -1,0 +1,12 @@
+#Lists every Python package your project depends on with versions
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+python-dotenv
+tiktoken
+unstructured
+markdown
+fastapi
+uvicorn
